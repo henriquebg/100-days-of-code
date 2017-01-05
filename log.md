@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: January 05, 2017
+### Day 0: January 4th, 2017
 
 **Today's Progress**: Decided what to do BRarvis - a brazilian version of Jarvis. I will use Intel Deep Learning SDK as a test.
 
@@ -11,7 +11,7 @@
 **TODO:** Make another clean CentOS7 VM and let Windows install OR redo VM and install from there again.
 
 
-### Day 1: January 06, 2017
+### Day 1: January 5th, 2017
 
 **Today's Progress**: Installed properly Intel Deep Learning SDK on Ubuntu. Had to find another speech recognition API (in this case Juluis) because IDL SDK only works with image classification.
 
