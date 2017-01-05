@@ -1,30 +1,11 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 0: January 05, 2017
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Decided what to do BRarvis - a brazilian version of Jarvis. I will use Intel Deep Learning SDK as a test.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** Well, I have to have a Linux server to use SDK on a Windows client. I virtualised minimal CentOS7 on VirtualBox and set Bridged Mode of network interface, like [here](http://www.techrepublic.com/blog/diy-it-guy/using-virtualbox-vms-on-your-networks-subnet/). I had to configure manually network interface on CentOS like [here](http://www.mustbegeek.com/configure-static-ip-address-in-centos/) and them updated yum. I also installed wget, downloaded intel script with it. Then I extracted and ran script with bash. After installed it on server, I tried to install client SDK on Windows, however it gives me an error. But actually, I saw that was only necessary first installation, second made the same thing from Windows through SSH (actually it was kind of running before Windows installation).
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** Nothing to show yet.
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**TODO: Make another clean CentOS7 VM and let Windows install OR redo VM and install from there again.
