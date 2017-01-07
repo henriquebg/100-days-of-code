@@ -20,3 +20,14 @@
 **Link to work:** Nothing to show yet.
 
 **TODO:** Study how Julius works.
+
+
+### Day 2 & 3: January 7th, 2017
+
+**Today's Progress**: Missed yesterday, however, I'm compensating today with 2h. Started to study Julius.
+
+**Thoughts:** Uh, I finally understood how Julius works, in thesis. I was struggling with pre-compiled libraries (and actually almost gave up of this project to start something on my area - games) and then I found documentation that explained that I only need to use pre-compiled if I want to change some parameters. I am fine with standard for now. I also found the binaries and then everything made more sense on how to use it. Basically, they say I can use the language I want. Given that, I suppose that I have to call "julius.exe" from the language I am using (of course it has to have support to OS calls), after configuring arguments to run within this "julius.exe" (separated custom files for Language Model, Grammar, Vocabulary...). I see that the path is to study how to make these files and then test them. That's all folks. ;)
+
+**Link to work:** Nothing to show yet.
+
+**TODO:** Study how to configure Language Model, Grammar and other custom files to use as argument for Julius.
